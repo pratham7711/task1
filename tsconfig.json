@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "es5",     // Target ECMAScript 2015 or later
+      "lib": ["es2020" , "dom"],      // Use ECMAScript 2015 library
+      "strict": true,
+      "esModuleInterop": true
+    }
+  }
+  
